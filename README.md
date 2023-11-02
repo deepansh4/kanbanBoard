@@ -9,8 +9,8 @@ A Kanban board is a visual project management tool that represents tasks as card
 ## Overview 🚀
 
 The application offers the following features:
-- **Dynamic Grouping:** Users can organize tickets by Status, User, or Priority.
-- **Sorting:** Tickets can be sorted by Priority or Title.
+- **Dynamic Grouping:** Users can organize the cards of tasks by Status, User, or Priority.
+- **Sorting:** Cards can be sorted by Priority or Title.
 - **State Persistence:** User's view state is saved and maintained even after a page reload.
 
 ## Usage ℹ️
