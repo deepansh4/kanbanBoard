@@ -24,4 +24,4 @@ To run this application locally, follow these steps:
 
 The application fetches data from the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment).
 
-**Deployed Website Link:** 
+**Deployed Website Link:** https://glittering-starship-544c3e.netlify.app/ **
